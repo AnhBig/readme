@@ -253,3 +253,23 @@ body {
 .content p {
   font-size: 20px;
 }
+.fontWeight {
+  font-weight: 100;
+}
+
+.ubuntu {
+  font-family: "Ubuntu Mono", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.hallo .content_int4 {
+  height: 48.06px;
+  font-size: 50px;
+}
+
+.libre {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
