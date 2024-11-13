@@ -181,6 +181,7 @@ body {
   font-weight: 400;
   size: 20px;
   line-height: 23.87px;
+  padding-bottom: 302px;
 }
 
 .content .container .contai_num4 {
@@ -198,10 +199,9 @@ body {
 
 .hallo .content_int3 {
   font-family: "Bagrile", sans-serif;
-  width: 382.35px;
+  /* width: 382.35px; */
   height: 48.06px;
-
-  opacity: 0px;
+  font-size: 50px;
 }
 .content_ints {
   font-family: "BernhardMod BT", sans-serif;
@@ -224,7 +224,7 @@ body {
 
 .hallo h2.harriet {
   font-family: "TT Jenevers Trl", sans-serif;
-  width: 302.91px;
+  /* width: 302.91px; */
   height: 40.9px;
 }
 
